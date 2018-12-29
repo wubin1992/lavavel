@@ -1,2 +1,2 @@
-# lavavel
-lavavel
+# laravel
+laravel
